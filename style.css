@@ -19,3 +19,46 @@ nav {
     border: 2px solid;
     min-height: 80px;
 }
+
+/* Sezione footer */
+footer {
+    /* DEBUG */
+    background-color: grey;
+    min-height: 500px;
+}
+
+.container{
+    /* DEBUG */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+div .collegamenti {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* DEBUG */
+    border: black solid 2px;
+    min-height: 370px;
+    width: 62%;
+  
+}
+
+div .social{
+    /* DEBUG */
+    border: 2px solid black;
+    width: calc(100%/3);
+    
+}
+
+div .linkfooter{
+    /* DEBUG */
+    border: 2px solid black;
+    width: calc(100%/6);
+
+}
+
+.footer {
+    width: 62%;
+}
