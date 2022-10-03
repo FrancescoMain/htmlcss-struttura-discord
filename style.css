@@ -1,0 +1,21 @@
+/* Regole Generali */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Sezione Intestazione */
+
+header {
+    /* DEBUG */
+    background-color: blue;
+    min-height: 650px;
+}
+
+nav {
+    /* DEBUG */
+    border: 2px solid;
+    min-height: 80px;
+}
