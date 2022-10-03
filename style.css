@@ -20,6 +20,24 @@ nav {
     min-height: 80px;
 }
 
+/* corpo principale */
+
+.maincontainer {
+    display: flex;
+    flex-direction: column;
+    margin: 0 15%;
+}
+
+article {
+    min-height: 300px;
+}
+
+
+.colcont{
+    display: flex;
+    min-height:300px ;
+}
+
 /* Sezione footer */
 footer {
     /* DEBUG */
