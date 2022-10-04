@@ -85,3 +85,13 @@ div .linkfooter{
 
 }
 
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+    min-height: 80px;
+
+}
+
